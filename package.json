@@ -1,6 +1,6 @@
 {
     "name": "modol",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "An effecient way to display data.",
     "main": "index.js",
     "scripts": {
