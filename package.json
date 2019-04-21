@@ -17,6 +17,10 @@
         "data",
         "date"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/N8Python/Modol.git"
+    },
     "author": "Nathan Hammer Breslow",
     "license": "MIT"
 }
