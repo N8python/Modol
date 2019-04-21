@@ -148,7 +148,7 @@ const myLittleModol = Modol.withOxford(new Modol("little", {
 myLittleModol.format(87); // '3 bigs, and 12 littles' - Yay, a comma before the and!
 ```
 
-The Comma Before And Extension dosen't take a specification. If you supply one, it will be discarded.
+The withOxford dosen't take a specification. If you supply one, it will be discarded.
 
 ## Stacking extensions
 Let's say you wanted to combine the effects of the Plurals and Comma Before And extension. You can pass the results of one extension to another, so you can do something like this:
