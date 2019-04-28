@@ -1,0 +1,26 @@
+{
+    "name": "modol",
+    "version": "0.2.2",
+    "description": "An effecient way to display data.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "modol",
+        "modulus",
+        "model",
+        "template",
+        "display",
+        "pretty-print",
+        "app",
+        "data",
+        "date"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/N8Python/Modol.git"
+    },
+    "author": "Nathan Hammer Breslow",
+    "license": "MIT"
+}
