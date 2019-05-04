@@ -3,9 +3,7 @@
     "version": "0.2.3",
     "description": "An effecient way to display data.",
     "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
+    "scripts": {},
     "keywords": [
         "modol",
         "modulus",
