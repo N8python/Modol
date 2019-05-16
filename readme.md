@@ -87,7 +87,7 @@ const time = new Modol("second", {
 ```
 As you can see, this format is easier to write and read. So, it is the standard to always set the third parameter to true, if you have units that are a multiple of the last unit in the chain.
 
-As you can see, the new style works perfectly. Let's have it tell us the time since 1970...
+As you can see, the new style works perfectly (except for leap years). Let's have it tell us the time since 1970...
 
 ```js
 time.format(Date.now() / 1000); // '49 years, 24 weeks, 2 days, 2 hours, 9 minutes and 35 seconds' - That was so easy!
